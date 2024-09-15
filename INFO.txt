@@ -1,2 +1,2 @@
 
-ssgit is awesome! 
+ssgit is awesome! experiment with amend
